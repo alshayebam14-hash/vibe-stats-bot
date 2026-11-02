@@ -1,0 +1,14 @@
+{
+  "name": "bot_vibe_stats_js",
+  "version": "1.0.0",
+  "description": "Vibe stats bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.5",
+    "sqlite3": "^5.1.7"
+  }
+}
